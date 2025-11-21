@@ -1,11 +1,11 @@
-## Hi, I'm Cláudio Soriano, Data Science & Agricultural Engineer • MSc in Applied Meteorology • PhD Researcher in Micrometeorology 🖖🏼
+## Hi, I'm Cláudio Soriano! Data Scientist & Agricultural Engineer • MSc in Applied Meteorology • PhD Researcher in Micrometeorology 🖖🏼
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-soriano-70a754124)
 
 ![Soriano GitHub stats](https://github-readme-stats.vercel.app/api?username=zSoriano&show_icons=true&theme=dark)
 
 ## About me:
 
-I work at the intersection of agriculture, micrometeorology and data science, 
+I work at the intersection of data science, agriculture, and curiosity, 
 developing analytical pipelines and decision-making tools for crop systems.
 My PhD focuses on evapotranspiration partitioning (T/ET) in agricultural 
 environments using micrometeorological techniques, remote sensing, and Python-based models.
@@ -17,8 +17,6 @@ I also build end-to-end data applications for agribusiness, including:
 - Soil and crop data processing
 
 - Streamlit dashboards and automation
-
-- ET partitioning workflows (Zhou, TEA, uWUE)
 
 - Statistical modeling and machine learning applied to agriculture
 
@@ -43,12 +41,14 @@ Productivity & Reporting
 
 ## What I’m Working On
 
-PhD research on evapotranspiration partitioning in agricultural environments
+- Data Scientist at Agrorobótica
 
-Development of agro-data pipelines using pandas, geopandas, xarray and scikit-learn
+- PhD research on evapotranspiration partitioning in agricultural environments
 
-Streamlit applications for agronomic decision support, soil analysis and statistical process control (CEP)
+- Development of agro-data pipelines using pandas, geopandas, xarray and scikit-learn
 
-Integration of remote sensing (MODIS, Sentinel-2) with micrometeorological data
+- Streamlit applications for agronomic decision support, soil analysis and statistical process control (CEP)
 
-Machine learning models applied to agrometeorology and crop monitoring
+- Integration of remote sensing (MODIS, Sentinel-2) with micrometeorological data
+
+- Machine learning models applied to agrometeorology and crop monitoring
