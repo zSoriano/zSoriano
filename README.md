@@ -3,22 +3,24 @@
 
 ![Soriano GitHub stats](https://github-readme-stats.vercel.app/api?username=zSoriano&show_icons=true&theme=dark)
 
-## About Me:
+## About me:
 
-I work at the intersection of agriculture, micrometeorology and data science, developing analytical pipelines and decision-making tools for crop systems.
-My PhD focuses on evapotranspiration partitioning (T/ET) in agricultural environments using micrometeorological techniques, remote sensing, and Python-based models.
+I work at the intersection of agriculture, micrometeorology and data science, 
+developing analytical pipelines and decision-making tools for crop systems.
+My PhD focuses on evapotranspiration partitioning (T/ET) in agricultural 
+environments using micrometeorological techniques, remote sensing, and Python-based models.
 
 I also build end-to-end data applications for agribusiness, including:
 
-Agrometeorological analysis and forecasting
+- Agrometeorological analysis and forecasting
 
-Soil and crop data processing
+- Soil and crop data processing
 
-Streamlit dashboards and automation
+- Streamlit dashboards and automation
 
-ET partitioning workflows (Zhou, TEA, uWUE)
+- ET partitioning workflows (Zhou, TEA, uWUE)
 
-Statistical modeling and machine learning applied to agriculture
+- Statistical modeling and machine learning applied to agriculture
 
 ## Tech's that I use:
 
