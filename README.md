@@ -3,9 +3,8 @@
 Data Scientist and Agricultural Engineer, MSc in Applied Meteorology, and PhD researcher in Micrometeorology. I work with remote sensing, environmental data analysis, and data products for agricultural decision-making.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-soriano-70a754124)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://zsoriano.github.io/pagina-github/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zSoriano&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zSoriano&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github)
 
 ## About me
 
