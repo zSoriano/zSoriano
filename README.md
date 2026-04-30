@@ -1,54 +1,69 @@
-## Hi, I'm Cláudio Soriano! Data Scientist & Agricultural Engineer • MSc in Applied Meteorology • PhD Researcher in Micrometeorology 🖖🏼
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-soriano-70a754124)
+## Hi, I'm Cláudio Soriano
 
-![Soriano GitHub stats](https://github-readme-stats.vercel.app/api?username=zSoriano&show_icons=true&theme=dark)
+Data Scientist and Agricultural Engineer, MSc in Applied Meteorology, and PhD researcher in Micrometeorology. I work with remote sensing, environmental data analysis, and data products for agricultural decision-making.
 
-## About me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-soriano-70a754124)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://zsoriano.github.io/pagina-github/)
 
-I work at the intersection of data science, agriculture, and curiosity, 
-developing analytical pipelines and decision-making tools for crop systems.
-My PhD focuses on evapotranspiration partitioning (T/ET) in agricultural 
-environments using micrometeorological techniques, remote sensing, and Python-based models.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zSoriano&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+
+## About me
+
+I work at the intersection of data science, agriculture, and environmental monitoring, building analytical pipelines and decision-support tools for crop systems.
+
+My PhD research focuses on evapotranspiration partitioning (T/ET) in agricultural environments using micrometeorological techniques, remote sensing, and Python-based modeling.
 
 I also build end-to-end data applications for agribusiness, including:
 
 - Agrometeorological analysis and forecasting
-
 - Soil and crop data processing
-
 - Streamlit dashboards and automation
-
 - Statistical modeling and machine learning applied to agriculture
+- Integration of MODIS, Sentinel-2, field sensors, and micrometeorological datasets
 
-## Tech's that I use:
+## Current focus
 
-Core Programming & Analysis
-<div style="display: inline_block"><br/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </div>
-Geospatial & Remote Sensing
-<div style="display: inline_block"><br/> <img src="https://img.shields.io/badge/GeoPandas-3B4D3D?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Xarray-4D77CF?style=for-the-badge&logo=xarray&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/> </div>
-Dashboards & Apps
-<div style="display: inline_block"><br/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> </div>
-Productivity & Reporting
-<div style="display: inline_block"><br/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/> </div>
+- Data science applied to agribusiness and crop monitoring
+- Evapotranspiration partitioning and micrometeorological data analysis
+- Agro-data pipelines with pandas, GeoPandas, xarray, and scikit-learn
+- Streamlit applications for agronomic decision support
+- Statistical process control and soil analysis tools
 
-## Skills
+## Tech stack
 
-<div style="display: inline_block"><br/>
-  <img align="center alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center alt="html5" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+### Programming and analysis
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </div>
 
-## What I’m Working On
+### Geospatial and remote sensing
 
-- Data Scientist at Agrorobótica
+<div>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" alt="GeoPandas" />
+  <img src="https://img.shields.io/badge/xarray-4D77CF?style=for-the-badge&logo=python&logoColor=white" alt="xarray" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine" />
+  <img src="https://img.shields.io/badge/MODIS-5C7C46?style=for-the-badge&logo=nasa&logoColor=white" alt="MODIS" />
+  <img src="https://img.shields.io/badge/Sentinel--2-1F6FEB?style=for-the-badge&logo=esa&logoColor=white" alt="Sentinel-2" />
+</div>
 
-- PhD research on evapotranspiration partitioning in agricultural environments
+### Dashboards and reporting
 
-- Development of agro-data pipelines using pandas, geopandas, xarray and scikit-learn
+<div>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint" />
+</div>
 
-- Streamlit applications for agronomic decision support, soil analysis and statistical process control (CEP)
+## Selected interests
 
-- Integration of remote sensing (MODIS, Sentinel-2) with micrometeorological data
-
-- Machine learning models applied to agrometeorology and crop monitoring
+- Micrometeorology and surface-atmosphere interactions
+- Crop water use, evapotranspiration, and irrigation intelligence
+- Remote sensing for agricultural monitoring
+- Applied machine learning for environmental and agronomic datasets
+- Practical data products for field and business decisions
