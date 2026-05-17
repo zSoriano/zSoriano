@@ -1,32 +1,40 @@
 ## Hi, I'm Cláudio Soriano
 
-Data Scientist and Agricultural Engineer, MSc in Applied Meteorology, and PhD researcher in Micrometeorology. I work with remote sensing, environmental data analysis, and data products for agricultural decision-making.
+Data Scientist and Agricultural Engineer, MSc in Applied Meteorology, and PhD researcher in Micrometeorology. I work with remote sensing, environmental data analysis, geospatial workflows, and data products for decision-making in agricultural, environmental, and climate-related contexts.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-soriano-70a754124)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://zsoriano.github.io/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zSoriano&show_icons=true&theme=dark&hide_border=true&count_private=true)
+## Selected work
+
+- Environmental and geospatial data pipelines with Python, pandas, GeoPandas, and xarray
+- Remote sensing workflows using MODIS, Sentinel-2, and Google Earth Engine
+- Agrometeorological dashboards and decision-support tools for agricultural systems
+- Micrometeorological analysis focused on evapotranspiration partitioning
+- Applied data products that turn environmental datasets into practical insights
 
 ## About me
 
-I work at the intersection of data science, agriculture, and environmental monitoring, building analytical pipelines and decision-support tools for crop systems.
+I work at the intersection of data science, environmental monitoring, agriculture, and applied meteorology, building analytical pipelines and decision-support tools from complex spatial and temporal datasets.
 
 My PhD research focuses on evapotranspiration partitioning (T/ET) in agricultural environments using micrometeorological techniques, remote sensing, and Python-based modeling.
 
-I also build end-to-end data applications for agribusiness, including:
+I also build end-to-end data applications for broader environmental and operational problems, including:
 
 - Agrometeorological analysis and forecasting
+- Environmental data processing and visualization
+- Geospatial analysis and remote sensing products
 - Soil and crop data processing
 - Streamlit dashboards and automation
-- Statistical modeling and machine learning applied to agriculture
+- Statistical modeling and machine learning applied to environmental datasets
 - Integration of MODIS, Sentinel-2, field sensors, and micrometeorological datasets
 
 ## Current focus
 
-- Data science applied to agribusiness and crop monitoring
+- Data science applied to environmental monitoring, agribusiness, and crop systems
 - Evapotranspiration partitioning and micrometeorological data analysis
-- Agro-data pipelines with pandas, GeoPandas, xarray, and scikit-learn
-- Streamlit applications for agronomic decision support
+- Geospatial and environmental data pipelines with pandas, GeoPandas, xarray, and scikit-learn
+- Streamlit applications for analytical products and decision support
 - Statistical process control and soil analysis tools
 
 ## Tech stack
@@ -63,7 +71,7 @@ I also build end-to-end data applications for agribusiness, including:
 ## Selected interests
 
 - Micrometeorology and surface-atmosphere interactions
-- Crop water use, evapotranspiration, and irrigation intelligence
-- Remote sensing for agricultural monitoring
+- Evapotranspiration, water use, and land-atmosphere processes
+- Remote sensing for agricultural and environmental monitoring
 - Applied machine learning for environmental and agronomic datasets
-- Practical data products for field and business decisions
+- Practical data products for field, business, and environmental decisions
