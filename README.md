@@ -1,77 +1,71 @@
-## Hi, I'm Cláudio Soriano
+# Hi, I'm Cláudio Soriano
 
-Data Scientist and Agricultural Engineer, MSc in Applied Meteorology, and PhD researcher in Micrometeorology. I work with remote sensing, environmental data analysis, geospatial workflows, and data products for decision-making in agricultural, environmental, and climate-related contexts.
+Data Scientist focused on agribusiness, climate data, and analytical products. I build ETL pipelines, dashboards, and internal applications that turn complex agricultural, environmental, and operational data into practical decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-soriano-70a754124)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://zsoriano.github.io/)
+I currently work at Agrorobótica, developing data products, automation workflows, and analytical applications for agricultural operations.
 
-## Selected work
+[Portfolio](https://zsoriano.github.io/) · [LinkedIn](https://www.linkedin.com/in/claudio-soriano1/) · [Email](mailto:claudio.soriano1@outlook.com)
 
-- Environmental and geospatial data pipelines with Python, pandas, GeoPandas, and xarray
-- Remote sensing workflows using MODIS, Sentinel-2, and Google Earth Engine
-- Agrometeorological dashboards and decision-support tools for agricultural systems
-- Micrometeorological analysis focused on evapotranspiration partitioning
-- Applied data products that turn environmental datasets into practical insights
+## What I build
 
-## About me
+- ETL pipelines for heterogeneous agricultural and environmental data
+- Dashboards and analytical products for operational and agronomic decisions
+- Streamlit and FastAPI applications for internal workflows
+- Statistical modeling, machine learning, and time-series analysis
+- Geospatial and remote-sensing workflows with MODIS, Sentinel-2, and Google Earth Engine
 
-I work at the intersection of data science, environmental monitoring, agriculture, and applied meteorology, building analytical pipelines and decision-support tools from complex spatial and temporal datasets.
+## Selected public work
 
-My PhD research focuses on evapotranspiration partitioning (T/ET) in agricultural environments using micrometeorological techniques, remote sensing, and Python-based modeling.
+- [Vibration Anomaly Detection](https://github.com/zSoriano/tractian-vibration-anomaly-detection) — Python pipeline for detecting anomalous industrial vibration patterns, with alert deduplication, recovery, and severity escalation.
+- [Portfolio](https://zsoriano.github.io/) — selected professional and academic work in data science, agriculture, and environmental analysis.
 
-I also build end-to-end data applications for broader environmental and operational problems, including:
+## Professional work
 
-- Agrometeorological analysis and forecasting
-- Environmental data processing and visualization
-- Geospatial analysis and remote sensing products
-- Soil and crop data processing
-- Streamlit dashboards and automation
-- Statistical modeling and machine learning applied to environmental datasets
-- Integration of MODIS, Sentinel-2, field sensors, and micrometeorological datasets
+Several professional projects were developed in private repositories because they use company code or internal data. I can discuss their architecture, technical decisions, and outcomes where confidentiality allows.
+
+- **LIBS Report System** — transforms raw soil-analysis spreadsheets into standardized internal reports.
+- **Chemical Inventory Control** — manages reagents, lots, movements, consumption, and alerts.
+- **Fertilization Calculator 2.0** — generates liming, gypsum, phosphorus, and potassium recommendations from soil analyses.
+- **GHG Emissions Calculator** — supports emissions quantification in agricultural and livestock systems.
+- **Soil Variable Analysis System** — explores correlations, time series, and predictive relationships between soil attributes.
+
+## Impact
+
+| Metric | Result |
+| --- | --- |
+| Selected projects | **06** |
+| Private professional solutions | **05** |
+| Agricultural clients | **20+** |
+| Report automation | **~2 days → ~1 minute** |
 
 ## Current focus
 
-- Data science applied to environmental monitoring, agribusiness, and crop systems
-- Evapotranspiration partitioning and micrometeorological data analysis
-- Geospatial and environmental data pipelines with pandas, GeoPandas, xarray, and scikit-learn
-- Streamlit applications for analytical products and decision support
-- Statistical process control and soil analysis tools
+- Data products for agribusiness, climate, and environmental monitoring
+- ETL, data quality, and process automation
+- Agricultural and micrometeorological time-series analysis
+- Streamlit applications and decision-support tools
+- Evapotranspiration partitioning and remote sensing
 
 ## Tech stack
 
-### Programming and analysis
+**Core:** Python · SQL · Pandas · NumPy · Scikit-learn
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-</div>
+**Applications:** Streamlit · FastAPI · PostgreSQL · Docker · Vercel · Render
 
-### Geospatial and remote sensing
+**Data and domain:** GeoPandas · xarray · Google Earth Engine · MODIS · Sentinel-2
 
-<div>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" alt="GeoPandas" />
-  <img src="https://img.shields.io/badge/xarray-4D77CF?style=for-the-badge&logo=python&logoColor=white" alt="xarray" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine" />
-  <img src="https://img.shields.io/badge/MODIS-5C7C46?style=for-the-badge&logo=nasa&logoColor=white" alt="MODIS" />
-  <img src="https://img.shields.io/badge/Sentinel--2-1F6FEB?style=for-the-badge&logo=esa&logoColor=white" alt="Sentinel-2" />
-</div>
+**Visualization:** Plotly · Power BI · Excel
 
-### Dashboards and reporting
+## Education
 
-<div>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint" />
-</div>
+- **PhD in Applied Meteorology** — Universidade Federal de Viçosa, 2021–present
+- **MSc in Applied Meteorology** — Universidade Federal de Viçosa, 2019–2021
+- **BSc in Agricultural Engineering** — Universidade Federal de Alagoas, 2013–2019
 
-## Selected interests
+## Contact
 
-- Micrometeorology and surface-atmosphere interactions
-- Evapotranspiration, water use, and land-atmosphere processes
-- Remote sensing for agricultural and environmental monitoring
-- Applied machine learning for environmental and agronomic datasets
-- Practical data products for field, business, and environmental decisions
+For opportunities and collaborations in data science, analytics, agribusiness, and environmental data:
+
+- [LinkedIn](https://www.linkedin.com/in/claudio-soriano1/)
+- [Portfolio](https://zsoriano.github.io/)
+- [Email](mailto:claudio.soriano1@outlook.com)
